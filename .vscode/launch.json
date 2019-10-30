@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NameCard",
+            "request": "launch",
+            "mainClass": "NameCard",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise9",
+            "request": "launch",
+            "mainClass": "Exercise9",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise8",
+            "request": "launch",
+            "mainClass": "Exercise8",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise7",
+            "request": "launch",
+            "mainClass": "Exercise7",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inheratence_PL",
+            "request": "launch",
+            "mainClass": "Inheratence_PL",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inheratence_2_PL",
+            "request": "launch",
+            "mainClass": "Inheratence_2_PL"
+        }
+    ]
+}
