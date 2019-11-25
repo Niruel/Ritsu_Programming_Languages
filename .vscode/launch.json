@@ -2,6 +2,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Exercise18",
+            "request": "launch",
+            "mainClass": "Exercise18",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise17",
+            "request": "launch",
+            "mainClass": "Exercise17",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise16",
+            "request": "launch",
+            "mainClass": "Exercise16",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UserInterfaceSwing",
+            "request": "launch",
+            "mainClass": "UserInterfaceSwing",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise15",
+            "request": "launch",
+            "mainClass": "Exercise15",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise14",
+            "request": "launch",
+            "mainClass": "Exercise14",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise13",
+            "request": "launch",
+            "mainClass": "Exercise13",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EventsHandling_PL",
+            "request": "launch",
+            "mainClass": "EventsHandling_PL",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Face",
+            "request": "launch",
+            "mainClass": "Face",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Painter10",
+            "request": "launch",
+            "mainClass": "Painter10",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NameCard",
             "request": "launch",
             "mainClass": "NameCard",
