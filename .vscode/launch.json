@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Painter",
+            "request": "launch",
+            "mainClass": "Painter",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GokuPacMan",
+            "request": "launch",
+            "mainClass": "GokuPacMan",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Exercise18",
             "request": "launch",
             "mainClass": "Exercise18",

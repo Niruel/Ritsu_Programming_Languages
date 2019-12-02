@@ -32,6 +32,15 @@ public class EventsHandling_PL extends JFrame {
 
         g.setColor(Color.green);
         g.fillOval(XCenter-OSize/2, YCenter-OSize/2, OSize, OSize);
+        
+        Polygon polygon = new Polygon();
+		polygon.addPoint(210 , 10);
+		polygon.addPoint(200 , 110);
+		polygon.addPoint(220 , 110);
+	
+
+        g.setColor(Color.blue);
+		g.fillPolygon(polygon);
 
 
     }
