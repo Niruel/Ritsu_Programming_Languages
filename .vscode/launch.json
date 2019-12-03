@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - mouseDragEX",
+            "request": "launch",
+            "mainClass": "mouseDragEX",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Interface_Switch",
+            "request": "launch",
+            "mainClass": "Interface_Switch",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitchInterface",
+            "request": "launch",
+            "mainClass": "SwitchInterface",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Painter",
             "request": "launch",
             "mainClass": "Painter",
