@@ -1,12 +1,11 @@
 import java.awt.Color;
-import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
-import java.awt.event.MouseWheelEvent;
 import javax.swing.JFrame;
 
+@SuppressWarnings("serial")
 public class mouseDragEX extends JFrame implements MouseListener, MouseMotionListener {
     int xCenter;
     int yCenter;

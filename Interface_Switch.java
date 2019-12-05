@@ -6,6 +6,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+@SuppressWarnings("serial")
 public class Interface_Switch extends JFrame implements ActionListener {
 
     JButton button;
@@ -40,18 +41,17 @@ public class Interface_Switch extends JFrame implements ActionListener {
     }
 
     /*
-     * public void actionPerformed(ActionEvent e) { String cmd =
-     * e.getActionCommand(); if (cmd.equals("btn")) {
+     * public void actionPerformed(ActionEvent e) { String cmd
+     * =e.getActionCommand(); if (cmd.equals("btn")) {
      * textField.setText("Button 1 was clicked");
      * 
      * } else if (cmd.equals("btn1")) { textField.setText("Button 2 was clicked"); }
      * else if (cmd.equals("text")) { textField.setText("Enter key was pressed"); }
      * }
-     */
-
-    /*
-     * public void actionPerformed(ActionEvent e) { if (e.getSource() == button) {
-     * textField.setText("Button 1 was clicked"); } else if (e.getSource() ==
+     *
+     * 
+     * /* public void actionPerformed(ActionEvent e) { if (e.getSource() == button)
+     * { textField.setText("Button 1 was clicked"); } else if (e.getSource() ==
      * button2) { textField.setText("Button 2 was clicked"); } else if
      * (e.getSource() == textField) { textField.setText("Enter key was pressed"); }
      * }

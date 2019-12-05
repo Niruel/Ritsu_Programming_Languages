@@ -9,6 +9,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import javax.swing.JFrame;
 
+@SuppressWarnings("serial")
 public class SwitchInterface extends JFrame implements MouseListener {
 
     boolean flag = false;

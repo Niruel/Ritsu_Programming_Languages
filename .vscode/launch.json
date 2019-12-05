@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Exercise21",
+            "request": "launch",
+            "mainClass": "Exercise21",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise20",
+            "request": "launch",
+            "mainClass": "Exercise20",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise19",
+            "request": "launch",
+            "mainClass": "Exercise19",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - mouseDragEX",
             "request": "launch",
             "mainClass": "mouseDragEX",
