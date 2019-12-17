@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - WorkingWithImages4",
+            "request": "launch",
+            "mainClass": "WorkingWithImages4",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WorkingWithImages3",
+            "request": "launch",
+            "mainClass": "WorkingWithImages3",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WorkingWithImages2",
+            "request": "launch",
+            "mainClass": "WorkingWithImages2",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WorkingWithImages",
+            "request": "launch",
+            "mainClass": "WorkingWithImages",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - el_EX_21",
+            "request": "launch",
+            "mainClass": "el_EX_21",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Exercise21",
             "request": "launch",
             "mainClass": "Exercise21",
