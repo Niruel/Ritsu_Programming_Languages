@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - WorkingWith_Affine_TRansform",
+            "request": "launch",
+            "mainClass": "WorkingWith_Affine_TRansform",
+            "projectName": "Ritsu_Programming_Languages_b1457b6b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - WorkingWithImages4",
             "request": "launch",
             "mainClass": "WorkingWithImages4",
