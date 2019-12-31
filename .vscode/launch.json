@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OpenCVTest",
+            "request": "launch",
+            "mainClass": "OpenCVTest",
+            "projectName": "Programming_Languages_Course_Ritsumeikan"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - WorkingWith_Affine_TRansform",
             "request": "launch",
             "mainClass": "WorkingWith_Affine_TRansform",
