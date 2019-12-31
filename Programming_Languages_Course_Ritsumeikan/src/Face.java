@@ -1,8 +1,8 @@
 /*
- * Face which is an upper class of three types of PacMan
- * Edited By Nicholas Ruppel 2019/12/02
- * use to set size, count, x and y center
- */
+                * Face which is an upper class of three types of PacMan
+                * Edited By Nicholas Ruppel 2019/12/02
+                * use to set size, count, x and y center
+                */
 
 import java.awt.Color;
 import java.awt.Graphics;

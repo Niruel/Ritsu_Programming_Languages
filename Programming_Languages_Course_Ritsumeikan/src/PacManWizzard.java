@@ -1,8 +1,8 @@
 /*
- * PacManWizzard that inherits PacMan
- * Created  By Nicholas Ruppel 2019/12/02
- * Made use of Pacman With eye and a added a wizzard hat
- */
+				* PacManWizzard that inherits PacMan
+				* Created  By Nicholas Ruppel 2019/12/02
+				* Made use of Pacman With eye and a added a wizzard hat
+				*/
 
 import java.awt.Color;
 import java.awt.Graphics;

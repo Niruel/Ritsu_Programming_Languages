@@ -50,11 +50,11 @@ public class Interface_Switch extends JFrame implements ActionListener {
      * }
      *
      * 
-     * /* public void actionPerformed(ActionEvent e) { if (e.getSource() == button)
-     * { textField.setText("Button 1 was clicked"); } else if (e.getSource() ==
-     * button2) { textField.setText("Button 2 was clicked"); } else if
-     * (e.getSource() == textField) { textField.setText("Enter key was pressed"); }
-     * }
+     * package old_code /* public void actionPerformed(ActionEvent e) { if
+     * (e.getSource() == button) { textField.setText("Button 1 was clicked"); } else
+     * if (e.getSource() == button2) { textField.setText("Button 2 was clicked"); }
+     * else if (e.getSource() == textField) {
+     * textField.setText("Enter key was pressed"); } }
      */
 
     public void actionPerformed(ActionEvent e) {

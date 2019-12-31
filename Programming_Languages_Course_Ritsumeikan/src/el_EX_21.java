@@ -1,7 +1,4 @@
 
-/* Exercise 21*/
-import java.awt.BorderLayout;
-import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.event.ActionEvent;
@@ -11,11 +8,9 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.awt.Color;
+import java.awt.BorderLayout;
 
-/**
- * When creating a varible like two intergers, do not do: int a,b; Do: int a;
- * int b;
- */
 public class el_EX_21 extends JFrame implements ActionListener, MouseListener {
     // Set booleans to be used throughout the code
     boolean flag1 = false;

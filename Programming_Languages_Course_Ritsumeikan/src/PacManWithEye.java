@@ -1,8 +1,8 @@
 /*
- * PacManWithSmile that inherits PacMan
- * Created By Nicholas Ruppel 2019/12/02
- * create pacman with eye
- */
+				* PacManWithSmile that inherits PacMan
+				* Created By Nicholas Ruppel 2019/12/02
+				* create pacman with eye
+				*/
 
 import java.awt.Color;
 import java.awt.Graphics;

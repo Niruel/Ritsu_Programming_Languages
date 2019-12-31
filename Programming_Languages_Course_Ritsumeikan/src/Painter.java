@@ -1,14 +1,14 @@
 
 /**
- * Painter
- * Created By Nicholas Ruppel 2019/12/02
- * Listen for two button clicks
- * each button has 3 functions
- * the first is to switch between each type of pac man 
- * pacman, pacmanwitheye, and pacmanwizzard
- * the next button will change between creation checking and changeing the pacman
- * Last is tne text box that does orgin of creation and when checking reads the name
- */
+* Painter
+* Created By Nicholas Ruppel 2019/12/02
+* Listen for two button clicks
+* each button has 3 functions
+* the first is to switch between each type of pac man 
+* pacman, pacmanwitheye, and pacmanwizzard
+* the next button will change between creation checking and changeing the pacman
+* Last is tne text box that does orgin of creation and when checking reads the name
+*/
 import java.awt.Graphics;
 import java.awt.BorderLayout;
 import java.awt.event.MouseAdapter;

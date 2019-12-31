@@ -35,7 +35,7 @@ public class WorkingWithImages4 extends JFrame {
         }
         repaint();
     }
-
+ 
     public static void main(String[] args) {
         new WorkingWithImages4();
     }

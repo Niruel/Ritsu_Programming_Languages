@@ -1,8 +1,8 @@
 /*
- * PacMan that
- * Created By Nicholas Ruppel 2019/12/02
- * create pacman class to be inherited by
- */
+				* PacMan that
+				* Created By Nicholas Ruppel 2019/12/02
+				* create pacman class to be inherited by
+				*/
 
 import java.awt.Graphics;
 
