@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 
 public class WorkingWithImages3 extends JFrame {
     BufferedImage bimage;
-    String filename = "Rage.jpg";
+    String filename = "imageA.jpg";
     String subFileName = "SaveA.jpg";
 
     WorkingWithImages3() {

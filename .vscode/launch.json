@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - openCV_test",
+            "request": "launch",
+            "mainClass": "openCV_test",
+            "projectName": "Programming_Languages_Course_Ritsumeikan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WorkingWithImages3",
+            "request": "launch",
+            "mainClass": "WorkingWithImages3",
+            "projectName": "Programming_Languages_Course_Ritsumeikan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HomeWork3",
+            "request": "launch",
+            "mainClass": "HomeWork3",
+            "projectName": "Programming_Languages_Course_Ritsumeikan"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - OpenCVTest",
             "request": "launch",
             "mainClass": "OpenCVTest",
